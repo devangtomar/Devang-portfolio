@@ -9,7 +9,7 @@ Visit Now 🚀 : https://devang-tomar.github.io/Devang-portfolio/
 
 HTML5, CSS3, JavaScript and Bootstrap.
 
-📌 Sneak Peek of Main Page 🙈 :
+📌 Sneak Peek of Main Page :
 
 ![image](https://user-images.githubusercontent.com/32426600/125337944-3c725b80-e36d-11eb-86ee-7796021f3461.png)
 
