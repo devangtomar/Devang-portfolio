@@ -18,8 +18,11 @@ HTML5, CSS3, JavaScript and Bootstrap.
 If you want to contact me, you can reach me through below handles.
 
 LinkedIn : https://www.linkedin.com/in/devang-tomar-8814aa138/
+
 Github : https://github.com/Devang-Tomar
+
 IG : https://www.instagram.com/be_ayushmann/
+
 FB : https://www.facebook.com/devang.d.z/
 
 Made with 💖 by Devang
