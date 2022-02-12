@@ -29,4 +29,4 @@ IG : https://www.instagram.com/be_ayushmann/
 
 FB : https://www.facebook.com/devang.d.z/
 
-Made with 💖 by Devang
+Made with 💖 by Devang.
